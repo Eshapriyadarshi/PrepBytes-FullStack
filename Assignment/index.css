@@ -1,0 +1,51 @@
+h1
+{
+    margin: 10px auto 0 auto;
+}
+
+#copy-right
+{
+    margin-top: 0;
+}
+
+pre
+{
+    color:#660000;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    
+}
+
+code{
+    color:#660000;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.center-table{
+    margin:auto;
+    padding:0;
+}
+table, th,td{
+    border: 1px solid black;
+    padding:2px;
+}
+.diff{
+    color:black;
+}
+.img-table{
+    margin:auto;
+    border: 2px solid black;
+    border-collapse: collapse;
+    background-color: #dddddd;
+}
+.img-table td{
+    width: 44px;
+    padding: 5px;
+    border:2px black solid;
+}
+.table-label{
+    border:0px;
+    background-color: white;
+    }
+.blue{
+    color: #0000ff;
+    font-weight: lighter;
+}
